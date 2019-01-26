@@ -1,0 +1,50 @@
+#This is the test program with single line command
+""""
+    This is multi-line command
+    Which I like it with a cool fashion
+"""
+
+"""
+    Section 1 Variables in Python
+"""
+
+""""age = 150
+firstName = "Azargul"
+lastName = 'Nazari'
+salary = 0.005
+
+print(type(int("12342)))
+
+print("His name is " + firstName + " " + lastName + " and he's " + str(age) + " years old with " + str(salary) + " salary")"""""
+
+#print (type(float("123")))
+#text = " Hello world ";
+#print(len(text))
+#print(text.strip())
+#print(text.lower())
+#print(text.upper())
+
+#print("Please Enter your Name: ")
+#name = input()
+#print("You name is " + name)
+
+names = ["Azargul", "Jamshid", "Baram"]
+for x in names:
+    print(x)
+
+if "Azargul" in names:
+    print("Yes Azargul exists")
+
+"""
+    Section 1 Variables in Python
+"""
+
+
+"""
+    Section 1 Variables in Python
+"""
+
+
+"""
+    Section 1 Variables in Python
+"""
